@@ -63,16 +63,14 @@ public class Billing
                     System.out.println(" ");
                     System.out.println("Enter the product details ");  
                     System.out.println("--------------------------");  
-//                    System.out.print("Product ID: ");  
+ 
                     System.out.println("Choose a Product: ");
-//                    id = scan.nextLine();  
+ 
                     i=scan.nextInt();
-//                    System.out.print("Product Name: ");  
-//                    productName = scan.nextLine();  
+
                     System.out.print("Quantity: ");  
                     quantity = scan.nextInt();  
-//                    System.out.print("Price (per unit): ");  
-//                    price = scan.nextDouble();  
+
                     switch (i) {
 					case 1:
 						id="101";
@@ -202,7 +200,7 @@ public class Billing
                    Product pod = new Product();
                    pod.calculatequantity(i, quantity);
                     
-//                    totalPrice = price * quantity;  
+ 
                     
                     overAllPrice = overAllPrice + totalPrice;  
                    
