@@ -42,25 +42,21 @@ customer, transactions.
 
 
 ### Login Screen
-[![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
+[![Login][login-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png)
 
 ### Registration Screen
-[![Registration][registration-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png)
+[![Registration][registration-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/2nd.png)
 
 ### Login
-[![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
+[![Login][login-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/3.png)
 
 ### Customer Menu
-[![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg)
+[![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/4.png)
 
 ### Bus Booking
-[![Bus Booking][busBooking-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg)
+[![Bus Booking][busBooking-screenshot]](https://github.com/Feliz03/Billing_Management/blob/main/Images/5.png)
 
-### Admin Menu
-[![Admin Dashboard][admin-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg)
 
-### Buses Information
-[![Buses][buses-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg)
 
 
 
@@ -139,6 +135,5 @@ Project Link: [https://github.com/Feliz03/Billing_Management.git](https://github
 [login-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/3.png
 [customer-dashboard-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/4.png
 [busBooking-screenshot]: https://github.com/Feliz03/Billing_Management/blob/main/Images/5.png
-[admin-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg
-[buses-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg
+
 
