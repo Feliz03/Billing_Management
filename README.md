@@ -45,7 +45,7 @@ customer, transactions.
 [Images/1st.png](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png)
 
 ### Registration Screen
-[![Registration][registration-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/2nd.png)
+[![Registration][registration-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png)
 
 ### Login
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
