@@ -42,7 +42,7 @@ customer, transactions.
 
 
 ### Login Screen
-[![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
+Images/1st.png
 
 ### Registration Screen
 [![Registration][registration-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg)
