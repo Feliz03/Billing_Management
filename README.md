@@ -42,7 +42,7 @@ customer, transactions.
 
 
 ### Login Screen
-[![Login][login-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png)
+[![Login Screen][login]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png)
 
 ### Registration Screen
 [![Registration][registration-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/2nd.png)
