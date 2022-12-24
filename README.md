@@ -8,7 +8,7 @@
 
   <p align="center">
     
-    The main objective of this project is to generate bill, keep a record of product, 
+    The main objective of this project is to manage and generate bill, keep a record of product.
 customer, transactions.
   </p>
 </div>
@@ -41,20 +41,20 @@ customer, transactions.
 ## About The Project
 
 
-### Login Screen
-[![Login Screen][login]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png)
+### Dashboard
+[![Dashboard][Dashboard-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png)
 
-### Registration Screen
-[![Registration][registration-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/2nd.png)
+### List of Products
+[![Prodcuct][Product-list-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/2nd.png)
 
-### Login
-[![Login][login-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/3.png)
+### Perchase Product
+[![Perchase][Select-product-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/3.png)
 
-### Customer Menu
-[![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/4.png)
+### Generated Bill
+[![Bill][Bill-screenshot]](https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/4.png)
 
-### Bus Booking
-[![Bus Booking][busBooking-screenshot]](https://github.com/Feliz03/Billing_Management/blob/main/Images/5.png)
+### Remaining Quantity
+[![Quantity][Remaining-quantity-screenshot]](https://github.com/Feliz03/Billing_Management/blob/main/Images/5.png)
 
 
 
@@ -130,10 +130,10 @@ Project Link: [https://github.com/Feliz03/Billing_Management.git](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [JAVA]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx20PHLxKaDlz35mW_neWjCUoco_IqBYKRlNy6tM&s
-[login-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png
-[registration-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/2nd.png
-[login-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/3.png
-[customer-dashboard-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/4.png
-[busBooking-screenshot]: https://github.com/Feliz03/Billing_Management/blob/main/Images/5.png
+[Dashboard-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png
+[Product-list-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/2nd.png
+[Select-product-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/3.png
+[Bill-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/4.png
+[Remaining-quantity-screenshot]: https://github.com/Feliz03/Billing_Management/blob/main/Images/5.png
 
 
