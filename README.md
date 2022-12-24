@@ -134,11 +134,11 @@ Project Link: [https://github.com/Feliz03/Billing_Management.git](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [JAVA]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx20PHLxKaDlz35mW_neWjCUoco_IqBYKRlNy6tM&s
-[login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg
-[registration-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg
-[login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg
-[customer-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg
-[busBooking-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg
+[login-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/1st.png
+[registration-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/2nd.png
+[login-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/3.png
+[customer-dashboard-screenshot]: https://raw.githubusercontent.com/Feliz03/Billing_Management/main/Images/4.png
+[busBooking-screenshot]: https://github.com/Feliz03/Billing_Management/blob/main/Images/5.png
 [admin-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg
 [buses-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg
 
