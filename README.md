@@ -93,13 +93,13 @@ you need to install following softwares or libraries.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/ShreyaRamtirth/Bus_Booking.git
+   https://github.com/Feliz03/Billing_Management.git
    ```
 2. Install Necessary software
 
 3. Open this project in eclipse.
 
-4. Go to BusBookingSystem/src/bin/BusBooking.java
+4. Go to Billing_Management/src/bin/Billing.java
 
 5. Click on the run button.
 
@@ -124,9 +124,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Shreya Ramtirth - shreyaramtirth4@gmail.com
+Kunal Pawar - kunalpawar170@gmail.com
 
-Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github.com/ShreyaRamtirth/Bus_Booking.git)
+Project Link: [https://github.com/Feliz03/Billing_Management.git](https://github.com/Feliz03/Billing_Management.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
