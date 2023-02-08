@@ -15,7 +15,7 @@ class Product {
 	LinkedList<Double> productprice = new LinkedList<>();
 	static LinkedList<Integer> quantity = new LinkedList<>();
 	public void setProduct() {
-		System.out.println("Items\t\t\tPrice");
+		System.out.println("Items\t\t\tPrice\tQuantity");
 		products.add("\n1.Biscuit");
 		productprice.add(40.00);
 		quantity.add(100);
@@ -111,7 +111,7 @@ class Product {
 		return totalPrice;
 	}
 
-	public int qty1(){
+	public int qty1(){ 
 		return qty1;
 	}
 	public static void displayFormat() {
@@ -123,10 +123,17 @@ class Product {
 	}
 
 	public void calculatequantity(int number,int quantity){
-		this.quantity.add(number - 1, this.quantity.get(number - 1 )-quantity);
+//		this.quantity.add(number - 1, this.quantity.get(number - 1 )-quantity);
+//	}
+	
+	if (this.quantity.get(number - 1) >= quantity) {
+	   
+	    this.quantity.add(number - 1, this.quantity.get(number - 1) - quantity);
+	} else {
+	   
+	    System.out.println("Quantity not available.");}
 	}
 	public void display() {
-		System.out.format("   %-9s             %-9s      %5d               %9.2f                       %14.2f\n", id,
-				pname, qty, price, totalPrice);
+		System.out.format("   %-9s             %-9s      %5d               %9.2f                       %14.2f\n", id,pname, qty, price, totalPrice);
 	}
 }

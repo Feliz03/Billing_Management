@@ -63,14 +63,15 @@ public class Billing
                     System.out.println(" ");
                     System.out.println("Enter the product details ");  
                     System.out.println("--------------------------");  
- 
+
                     System.out.println("Choose a Product: ");
- 
+
                     i=scan.nextInt();
 
                     System.out.print("Quantity: ");  
                     quantity = scan.nextInt();  
-
+                   
+ 
                     switch (i) {
 					case 1:
 						id="101";
@@ -200,7 +201,7 @@ public class Billing
                    Product pod = new Product();
                    pod.calculatequantity(i, quantity);
                     
- 
+
                     
                     overAllPrice = overAllPrice + totalPrice;  
                    
@@ -248,7 +249,8 @@ public class Billing
             	switch(choice){
             	case 'y': Product pod = new Product();
             
-            	p.displayProducts(); break;
+            	p.displayProducts();
+            	break;
             	default: System.out.println("Invalid choice");
             	}
             }
